@@ -13,3 +13,4 @@ https://forums.developer.nvidia.com/t/openmp-4-5-and-fortran-type-bound-procedur
 
 ## submodule 2
 
+https://forums.developer.nvidia.com/t/nvfortran-error-with-submodules/270536
