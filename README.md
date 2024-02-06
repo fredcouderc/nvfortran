@@ -15,6 +15,8 @@ https://forums.developer.nvidia.com/t/openmp-4-5-and-fortran-type-bound-procedur
 
 https://forums.developer.nvidia.com/t/nvfortran-error-with-submodules/270536
 
+Should be fixed in 24.1 release
+
 ## allocate_count
 
 https://forums.developer.nvidia.com/t/nvfortran-bug-with-allocate-and-source-argument/270629
